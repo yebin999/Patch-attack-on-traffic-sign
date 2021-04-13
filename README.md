@@ -1,6 +1,6 @@
-# Pytorch-cifar100
+# Patch attack on traffic sign recognition
 
-practice on cifar100 using pytorch
+patch attack using pytorch
 
 ## Requirements
 
